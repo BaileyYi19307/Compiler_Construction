@@ -1,4 +1,3 @@
-``markdown
 # Compiler Construction Assignments (PS3–PS7 and Mini-Project)
 
 A collection of compiler construction projects developed for CSCI 2130.  
