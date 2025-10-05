@@ -1,0 +1,9 @@
+f() {
+  return 1;
+}
+
+main() {
+  let x = f();
+  return x;
+}
+

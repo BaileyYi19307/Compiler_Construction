@@ -1,0 +1,12 @@
+fact(n) { return 42; }
+
+
+g(x,y) {
+  return fact(x);
+}
+
+main() {
+  let x=0;
+  let y=0;
+  return g(x,y);
+}
